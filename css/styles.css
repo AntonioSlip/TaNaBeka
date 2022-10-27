@@ -11573,8 +11573,13 @@ footer.footer .social-link:hover {
 
 .imagem{
   float: left;
-  width: 50%;
 }
+
+.imagem img{
+  height: 300px;
+  width: 430px;
+}
+
 .row_imagens::after {
   content: "";
   clear: both;
